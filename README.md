@@ -8,3 +8,4 @@ Different Recipies of NLP will be uploaded here :)
 5. Multi-Label Classification using a LSTM Network and using GloVe pretrained vectors.
 6. Text summarization using Gensim
 
+You can check various language vectors at : https://fasttext.cc/docs/en/pretrained-vectors.html
