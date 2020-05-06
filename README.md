@@ -1,2 +1,8 @@
 # NLP-Cookbook
 Different Recipies of NLP will be uploaded here :)
+
+1. NER Tagging.
+2. Spelling Correction.
+3. GloVe for generating word vector.
+4. Gensim with WMD Distance
+
