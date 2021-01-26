@@ -1,5 +1,5 @@
 # NLP-Cookbook
-Different Recipies of NLP will be uploaded here :)
+Different Recipies of NLP problems could be found here-
 
 1. NER Tagging.
 2. Spelling Correction.
